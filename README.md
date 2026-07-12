@@ -90,8 +90,8 @@ I work with:
 ---
 
 # 📊 Dashboard Preview
+<img width="1853" height="859" alt="Screenshot 2026-07-12 155443" src="https://github.com/user-attachments/assets/9c2ff1d7-760c-4a1e-ba4c-c5936d261987" />
 
-(Add your project screenshots here)
 
 ---
 
