@@ -99,7 +99,7 @@ I work with:
 
 📧 Email: ramrajuraut@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/aditya-raju-raut?utm_source=share_via&utm_content=profile&utm_medium=member_android
+🔗 LinkedIn: https://www.linkedin.com/in/aditya-raju-raut
 
 🐙 GitHub: https://github.com/adityaraut31
 
